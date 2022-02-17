@@ -10,7 +10,7 @@ Repositório de arquivamento, organização e apresentação das aplicações, d
 ## "Code-Along":
 (Aplicações desenvolvidas ao assistir as aulas com o instrutor @diego3g)
 
-* Fundamentos do ReactJS
+* <a href="https://github.com/pdr3392/igniteGithubExplorer">Fundamentos do ReactJS</a>
 * Primeira aplicação web com ReactJS
 * Primeira aplicação web com NextJS
 * Construindo aplicação do futuro
